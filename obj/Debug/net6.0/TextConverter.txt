@@ -1,0 +1,34 @@
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\bin\Debug\net6.0\Практическая работа №6.exe
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\bin\Debug\net6.0\Практическая работа №6.deps.json
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\bin\Debug\net6.0\Практическая работа №6.runtimeconfig.json
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\bin\Debug\net6.0\Практическая работа №6.dll
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\bin\Debug\net6.0\Практическая работа №6.pdb
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\obj\Debug\net6.0\Практическая работа №6.csproj.AssemblyReference.cache
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\obj\Debug\net6.0\Практическая работа №6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\obj\Debug\net6.0\Практическая работа №6.AssemblyInfoInputs.cache
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\obj\Debug\net6.0\Практическая работа №6.AssemblyInfo.cs
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\obj\Debug\net6.0\Практическая работа №6.csproj.CoreCompileInputs.cache
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\obj\Debug\net6.0\Практическая работа №6.csproj.CopyComplete
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\obj\Debug\net6.0\Практическая работа №6.dll
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\obj\Debug\net6.0\refint\Практическая работа №6.dll
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\obj\Debug\net6.0\Практическая работа №6.pdb
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\obj\Debug\net6.0\Практическая работа №6.genruntimeconfig.cache
+C:\Users\nikol\source\repos\Практическая работа №6\Практическая работа №6\obj\Debug\net6.0\ref\Практическая работа №6.dll
+C:\Users\user\Downloads\-6-master\-6-master\bin\Debug\net6.0\Практическая работа №6.exe
+C:\Users\user\Downloads\-6-master\-6-master\bin\Debug\net6.0\Практическая работа №6.deps.json
+C:\Users\user\Downloads\-6-master\-6-master\bin\Debug\net6.0\Практическая работа №6.runtimeconfig.json
+C:\Users\user\Downloads\-6-master\-6-master\bin\Debug\net6.0\Практическая работа №6.dll
+C:\Users\user\Downloads\-6-master\-6-master\bin\Debug\net6.0\Практическая работа №6.pdb
+C:\Users\user\Downloads\-6-master\-6-master\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Downloads\-6-master\-6-master\obj\Debug\net6.0\Практическая работа №6.csproj.AssemblyReference.cache
+C:\Users\user\Downloads\-6-master\-6-master\obj\Debug\net6.0\Практическая работа №6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Downloads\-6-master\-6-master\obj\Debug\net6.0\Практическая работа №6.AssemblyInfoInputs.cache
+C:\Users\user\Downloads\-6-master\-6-master\obj\Debug\net6.0\Практическая работа №6.AssemblyInfo.cs
+C:\Users\user\Downloads\-6-master\-6-master\obj\Debug\net6.0\Практическая работа №6.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\-6-master\-6-master\obj\Debug\net6.0\Практическая работа №6.csproj.CopyComplete
+C:\Users\user\Downloads\-6-master\-6-master\obj\Debug\net6.0\Практическая работа №6.dll
+C:\Users\user\Downloads\-6-master\-6-master\obj\Debug\net6.0\refint\Практическая работа №6.dll
+C:\Users\user\Downloads\-6-master\-6-master\obj\Debug\net6.0\Практическая работа №6.pdb
+C:\Users\user\Downloads\-6-master\-6-master\obj\Debug\net6.0\Практическая работа №6.genruntimeconfig.cache
+C:\Users\user\Downloads\-6-master\-6-master\obj\Debug\net6.0\ref\Практическая работа №6.dll

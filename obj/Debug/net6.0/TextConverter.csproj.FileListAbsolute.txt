@@ -1,0 +1,17 @@
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\bin\Debug\net6.0\TextConverter.exe
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\bin\Debug\net6.0\TextConverter.deps.json
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\bin\Debug\net6.0\TextConverter.runtimeconfig.json
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\bin\Debug\net6.0\TextConverter.dll
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\bin\Debug\net6.0\TextConverter.pdb
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\obj\Debug\net6.0\TextConverter.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\obj\Debug\net6.0\TextConverter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\obj\Debug\net6.0\TextConverter.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\obj\Debug\net6.0\TextConverter.AssemblyInfo.cs
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\obj\Debug\net6.0\TextConverter.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\obj\Debug\net6.0\TextConverter.csproj.CopyComplete
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\obj\Debug\net6.0\TextConverter.dll
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\obj\Debug\net6.0\refint\TextConverter.dll
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\obj\Debug\net6.0\TextConverter.pdb
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\obj\Debug\net6.0\TextConverter.genruntimeconfig.cache
+C:\Users\user\Desktop\Проекты\ОАИП Скорогудаева\TextConverter\obj\Debug\net6.0\ref\TextConverter.dll
